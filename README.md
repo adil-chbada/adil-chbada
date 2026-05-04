@@ -48,6 +48,7 @@ Currently leading development on **Digishare CMS** - a sophisticated multi-platf
 
 - [LinkedIn](https://www.linkedin.com/in/adil-chbada/)
 - [GitHub](https://github.com/adil-chbada)
+- [Portfolio](https://adil-chbada.github.io)
 
 ---
 
